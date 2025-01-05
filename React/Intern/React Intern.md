@@ -26,3 +26,35 @@ For you to pass this level, you must be able to understand the following concept
 - [Basic Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html) - Understand the fundamental data types in TypeScript, including `boolean`, `number`, `string`, and more.
 - [Interfaces and Types](https://www.typescriptlang.org/docs/handbook/2/objects.html) - Learn how to define contracts within your code using interfaces, which describe the shape of objects.
 
+These are the basic concepts of TypeScript that will be use throughout the course for more advanced concepts later on. Make sure you understand these concepts before moving on to the next level.
+
+## React
+
+As of right now, there are two ways create React components:
+
+- Class Components
+- Functional Components
+
+Although the class components are still valid, this course will only focus on the functional components
+
+You can read the official documentation here: [React Documentation](https://react.dev/learn) on how React works. 
+
+The concept is really simple: you break it down into smaller components and then compose them together to create a complex UI. Think of it as a lego set, where each piece is a component. The hardest part is to make a well-designed component that can be glued together with other components to create the desired UI.
+
+An example of a functional component is as follows:
+
+```tsx
+function MyComponent() {
+  const [count, setCount] = useState(0);
+  return <button onClick={() => setCount(count + 1)}>My count is {count}</button>;
+}
+```
+
+Let break down the code:
+
+- `function MyComponent() { ... }` - This is the function that returns a React component. As you can see, the syntax is similar to the HTML structure, and it is called JSX. More about JSX can be found [here](https://react.dev/learn/writing-markup-with-jsx)
+- The `useState` is the basic hook that is used to create interactive UI to the component. The return value is an array that contains the current state value and a function to update the state. For example, `const [count, setCount] = useState(0);` means that the `count` is the current state value, and `setCount` is the function to update the state. Whenever you trigger the `setCount` function, the component will re-render with the new state value, and then the UI will be updated accordingly.
+
+To learn more about how React works, you can read the official documentation [here](https://react.dev/learn). This official documentation is the best place to learn React, and at the end of this internship, you should familiar with the basic concepts of React like components, props, state, and hooks.
+
+
