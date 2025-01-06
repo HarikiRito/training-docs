@@ -44,30 +44,6 @@ This collection of exercises is designed to help interns learn and practice Reac
    - Concepts: Interval management, state updates
    - Learn time-based state manipulation
 
-## TypeScript Exercises
-
-### Basic TypeScript Concepts
-
-10. **Type Annotations Exercise** (`TypeScript/TypeAnnotationsExercise.ts`)
-    - Concepts: Basic type annotations, primitive types
-    - Practice defining types for variables, functions, and parameters
-
-11. **Interfaces Exercise** (`TypeScript/InterfacesExercise.ts`)
-    - Concepts: Interface definition, object typing
-    - Learn how to create and use interfaces for type checking
-
-12. **Union and Intersection Types Exercise** (`TypeScript/UnionIntersectionExercise.ts`)
-    - Concepts: Union types, intersection types
-    - Understand advanced type composition techniques
-
-13. **Generics Exercise** (`TypeScript/GenericsExercise.ts`)
-    - Concepts: Generic functions and classes
-    - Learn how to create reusable, type-safe code
-
-14. **Enum and Tuple Exercise** (`TypeScript/EnumTupleExercise.ts`)
-    - Concepts: Enum usage, tuple types
-    - Practice with specialized TypeScript type constructs
-
 ## Learning Objectives
 
 - Master React functional components
