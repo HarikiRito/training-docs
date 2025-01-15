@@ -57,4 +57,26 @@ Let break down the code:
 
 To learn more about how React works, you can read the official documentation [here](https://react.dev/learn). This official documentation is the best place to learn React, and at the end of this internship, you should familiar with the basic concepts of React like components, props, state, and hooks.
 
+## Comprehensive React Learning Resources
 
+### Official Documentation
+- [React Quick Start Guide](https://react.dev/learn)
+- [React Tutorial: Tic-Tac-Toe Game](https://react.dev/learn/tutorial-tic-tac-toe)
+
+### Online Courses
+- [Udemy: React - The Complete Guide](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+
+### Beginner Tutorials
+- [React for Beginners by Tania Rascia](https://www.taniarascia.com/getting-started-with-react/)
+- [Build with React Tutorial](https://buildwithreact.com/tutorial)
+
+### Practice Platforms
+- [CodeSandbox](https://codesandbox.io/)
+
+### Additional Learning Resources
+- [MDN JavaScript Overview](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [javascript.info](https://javascript.info/)
+
+### Community Support
+- [React Community Forums](https://react.dev/community)
+- [React Twitter @reactjs](https://twitter.com/reactjs)
