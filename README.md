@@ -34,3 +34,7 @@ Transitioning from an intern to a junior developer requires dedication, continuo
 
 ## Conclusion
 Your journey from intern to junior developer is a path of continuous growth and learning. Stay motivated, be curious, and never stop improving your skills.
+
+## Table of Contents
+- [Git](Git/Git.md)
+- [React](React/README.md)
