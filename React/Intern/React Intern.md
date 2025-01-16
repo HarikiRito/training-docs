@@ -100,3 +100,18 @@ You can use [CodeSandbox](https://codesandbox.io/) to practice these exercises. 
 - [Stopwatch Exercise](./Exercises/StopwatchExercise.tsx)
 
 Make sure to review the relevant documentation and resources as you work through these exercises. Good luck!
+
+
+## What needs to pass this level
+
+- Complete all exercises listed in the Exercises section.
+- Know all the basic React concepts (Components, Props, State, Hooks)
+- Understand basic Git.
+- Complete and understand the following Git concepts:
+  - [Basic Branching](../../Git/Exercises/01-BasicBranching.md)
+  - [Advanced Merging Techniques](../../Git/Exercises/02-Merging.md)
+  - [Mastering Git Rebase](../../Git/Exercises/03-Rebasing.md)
+  - [Mastering Git Stash](../../Git/Exercises/04-Stashing.md)
+  - [Advanced Collaboration Workflow](../../Git/Exercises/05-Collaboration.md)
+  - [Reverting Commits and Undoing Changes](../../Git/Exercises/06-RevertingCommits.md)
+  - [Security Best Practices and .gitignore Mastery](../../Git/Exercises/07-GitSecurityAndIgnore.md)

@@ -14,21 +14,19 @@ You're working on a project and need to undo recent changes or roll back to a pr
 ### Exercise 1: Basic Commit Reversion
 
 #### Scenario: Reverting the Last Commit
-1. Create a sample project
-```bash
+1. Create a sample project```bash
 mkdir git-revert-practice
 cd git-revert-practice
 git init
 
 # Create some files and make initial commits
-echo "First line of code" > main.py
-git add main.py
+echo "// First line of code" > main.js
+git add main.js
 git commit -m "Initial commit"
 
-echo "Some experimental code" >> main.py
-git add main.py
-git commit -m "Add experimental feature"
-```
+echo "// Some experimental code" >> main.js
+git add main.js
+git commit -m "Add experimental feature"```
 
 2. Revert the Last Commit
 ```bash
@@ -47,16 +45,16 @@ git revert HEAD
 #### Scenario: Reverting a Specific Commit
 1. Create Multiple Commits
 ```bash
-echo "Feature A" > feature_a.py
-git add feature_a.py
+echo "// Feature A implementation" > feature_a.js
+git add feature_a.js
 git commit -m "Add Feature A"
 
-echo "Feature B" > feature_b.py
-git add feature_b.py
+echo "// Feature B implementation" > feature_b.js
+git add feature_b.js
 git commit -m "Add Feature B"
 
-echo "Feature C" > feature_c.py
-git add feature_c.py
+echo "// Feature C implementation" > feature_c.js
+git add feature_c.js
 git commit -m "Add Feature C"
 ```
 
@@ -75,16 +73,16 @@ git revert [COMMIT_HASH]
 ```bash
 git checkout -b rebase-practice
 
-echo "Initial setup" > project.txt
-git add project.txt
+echo "// Initial project setup" > project.js
+git add project.js
 git commit -m "Initial project setup"
 
-echo "First feature" >> project.txt
-git add project.txt
+echo "// First feature implementation" >> project.js
+git add project.js
 git commit -m "Add first feature"
 
-echo "Second feature" >> project.txt
-git add project.txt
+echo "// Second feature implementation" >> project.js
+git add project.js
 git commit -m "Add second feature"
 ```
 
