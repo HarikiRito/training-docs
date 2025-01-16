@@ -80,3 +80,23 @@ To learn more about how React works, you can read the official documentation [he
 ### Community Support
 - [React Community Forums](https://react.dev/community)
 - [React Twitter @reactjs](https://twitter.com/reactjs)
+
+
+## Exercises
+
+To solidify your understanding of the concepts covered in this internship, you will complete a series of exercises. These exercises are designed to help you apply what you've learned about React and TypeScript in practical scenarios. Make sure to complete each exercise to gain hands-on experience.
+
+You can use [CodeSandbox](https://codesandbox.io/) to practice these exercises. It allows you to quickly prototype and share your React projects, making it an excellent tool for experimenting with the concepts you learn.
+
+### Exercise Links
+- [Counter Exercise](./Exercises/CounterExercise.tsx)
+- [Props Exercise](./Exercises/PropsExercise.tsx)
+- [Todo List Exercise](./Exercises/TodoListExercise.tsx)
+- [Shopping Cart Exercise](./Exercises/ShoppingCartExercise.tsx)
+- [Data Fetch Exercise](./Exercises/DataFetchExercise.tsx)
+- [Quiz App Exercise](./Exercises/QuizAppExercise.tsx)
+- [Currency Converter Exercise](./Exercises/CurrencyConverterExercise.tsx)
+- [Image Gallery Exercise](./Exercises/ImageGalleryExercise.tsx)
+- [Stopwatch Exercise](./Exercises/StopwatchExercise.tsx)
+
+Make sure to review the relevant documentation and resources as you work through these exercises. Good luck!
