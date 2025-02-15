@@ -79,7 +79,6 @@ To learn more about how React works, you can read the official documentation [he
 
 ### Community Support
 - [React Community Forums](https://react.dev/community)
-- [React Twitter @reactjs](https://twitter.com/reactjs)
 
 
 ## Exercises
