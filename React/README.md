@@ -18,3 +18,4 @@ React is a declarative, efficient, and flexible JavaScript library for building 
 
 ## Resources per level
 - [Intern Level](Intern/React%20Intern.md)
+- [Trainee Level](Trainee/README.MD)

@@ -90,7 +90,6 @@ You can use [CodeSandbox](https://codesandbox.io/) to practice these exercises. 
 ### Exercise Links
 - [Counter Exercise](./Exercises/CounterExercise.tsx)
 - [Props Exercise](./Exercises/PropsExercise.tsx)
-- [Todo List Exercise](./Exercises/TodoListExercise.tsx)
 - [Shopping Cart Exercise](./Exercises/ShoppingCartExercise.tsx)
 - [Data Fetch Exercise](./Exercises/DataFetchExercise.tsx)
 - [Quiz App Exercise](./Exercises/QuizAppExercise.tsx)
