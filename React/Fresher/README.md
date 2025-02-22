@@ -187,7 +187,7 @@ function Button({
 
 Using this website as a reference, create a similar website using the technology stack above.
 
-Website: https://keenthemes.com/metronic/tailwind/react/demo1
-
+Metronic: https://keenthemes.com/metronic/tailwind/react/demo1
+Materialize: https://demos.pixinvent.com/materialize-html-admin-template/html/vertical-menu-template/app-ecommerce-dashboard.html
 
 
