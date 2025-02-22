@@ -136,8 +136,58 @@ function Button({
 - [Frontend Mentor Challenges](https://www.frontendmentor.io/)
 - [Codecademy React Courses](https://www.codecademy.com/learn/react-101)
 
-## Conclusion
 
-This level is designed to transform you from a beginner to a confident React developer. Embrace the challenges, learn continuously, and don't hesitate to seek help from your team.
 
-Good luck on your learning journey! 🚀
+## Pull Request (PR) Submission Guidelines
+
+### PR Submission Requirements
+1. **Mandatory Code Review**
+   - All code changes must be submitted via a Pull Request (PR)
+   - PRs are required for code review and collaboration
+   - Only approved and reviewed code will be merged into the main branch
+
+2. **PR Description**
+   - Provide a clear, detailed description of the feature or changes
+   - For frontend work, include a screenshot of the UI changes
+   - Explain the purpose and functionality of your implementation
+
+3. **PR Scope**
+   - Focus on a single feature or improvement per PR
+   - Limit the number of files changed to maintain clarity
+   - Avoid large, complex PRs that are difficult to review
+
+4. **Best Practices**
+   - Keep PRs small and focused
+   - Ensure all tests and linters pass before submission
+   - Be open to feedback and suggested improvements
+   - Respond promptly to review comments
+
+### Example PR Template
+```markdown
+## Description
+[Provide a brief overview of the feature/fix]
+
+## Type of Change
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Breaking change
+- [ ] Documentation update
+
+## Screenshots (if applicable)
+[Insert UI screenshots or relevant images]
+
+## Checklist
+- [ ] I have performed a self-review of my code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have added tests that prove my fix/feature works
+- [ ] My changes generate no new warnings
+```
+
+## Practice Project
+
+Using this website as a reference, create a similar website using the technology stack above.
+
+Website: https://keenthemes.com/metronic/tailwind/react/demo1
+
+
+
